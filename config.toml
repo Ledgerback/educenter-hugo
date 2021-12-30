@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://laplace.github.io"
+baseURL = "https://laplace.ledgerback.coop"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo-master"
 # post pagination
